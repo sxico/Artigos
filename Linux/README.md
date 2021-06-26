@@ -8,4 +8,4 @@ Neste repositório será publica documentos traduzidos, artigos e até trabalhos
 
 ### Publicações
 
-* (Sistema de Diretórios - FHS)[https://github.com/sxico/Artigos/blob/main/Linux/FHS.md]
+ [Sistema de Diretórios - FHS](https://github.com/sxico/Artigos/blob/main/Linux/FHS.md)

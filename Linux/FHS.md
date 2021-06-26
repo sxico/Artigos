@@ -27,7 +27,7 @@ A estrutura organizacional pode ter ramificações independente do disco de arma
 
 
 
-<p align="center"><img src="./FHS.jpg" alt="Estrutura Organizacional"/></p>
+<p align="center"><img src="./imagens/FHS.jpg" alt="Estrutura Organizacional"/></p>
 
   
 

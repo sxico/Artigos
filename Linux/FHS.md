@@ -27,7 +27,8 @@ A estrutura organizacional pode ter ramificações independente do disco de arma
 
   
 
-![Estrutura Organizacional](./FHS-DecisionTree.jpg)
+<img src="./FHS-DecisionTree.jpg" alt="Estrutura Organizacional" style="width:200px; height=200px"/>
+
   
 
 ### Os Sistemas de Arquivos

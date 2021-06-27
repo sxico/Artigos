@@ -23,7 +23,7 @@ No decorrer deste artigo veremos muito as palavras **'estrutura organizacional'*
 
   
 
-A estrutura organizacional pode ter ramificações independente do disco de armazenamento e limite,facilitando a administração do sistema e até o backup, imagine um servidor com informações sensíveis e de grande escala, isso facilitará muito no tempo de operação quanto na qualidade deum serviço de backup; Projetada para operar em uma rede de máquinas, ou por meio de rede como por exemplo o NFS (Network Attached Storage) caso queira saber um pouco mais sobre, tem um artigo da [Red Hat](https://www.redhat.com/en/topics/data-storage/network-attached-storage)
+A estrutura organizacional pode ter ramificações independente do disco de armazenamento e limite,facilitando a administração do sistema e até o backup, imagine um servidor com informações sensíveis e de grande escala, isso facilitará muito no tempo de operação quanto na qualidade deum serviço de backup; Projetada para operar em uma rede de máquinas, ou por meio de rede como por exemplo o NAS (Network Attached Storage) caso queira saber um pouco mais sobre, tem um artigo da [Red Hat](https://www.redhat.com/en/topics/data-storage/network-attached-storage)
 
 
 

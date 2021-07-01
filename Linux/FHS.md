@@ -47,11 +47,6 @@ A estrutura organizacional pode ter ramificações independente do disco de arma
 
   * Em situações específicas o sistema de arquivos pode ser montado como somente leitura reduzindo as chances de quebra de arquivos no decorrer de uma operação falha;
 
-* **var**
-
-  * Sistema de arquivos representado por **/var** contém arquivos mutáveis como por exemplo logs de sistemas, aplicações e até spool(mail, print e etc)
-
-  * Arquivos deste sistemas devem estar um nível abaixo do sistema de arquivos /usr o que impossibilita a montagem deste em somente leitura;
 
 * **home**
 
